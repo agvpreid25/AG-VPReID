@@ -1,4 +1,4 @@
-# AG-VPReID: Aerial-Ground View Person Re-Identification
+# AG-VPReID: Aerial-Ground Video-based Person Re-Identification
 
 **Official repository for the AG-VPReID Competition**
 
