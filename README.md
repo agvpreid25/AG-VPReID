@@ -1,4 +1,4 @@
-# AG-VPReID: Aerial-Ground View Person Re-Identification
+# AG-VPReID: Aerial-Ground Video-based Person Re-Identification
 
 **Official repository for the AG-VPReID Competition**
 
@@ -22,7 +22,7 @@ The competition evaluates performance on two distinct scenarios:
 1. **Aerial-to-Ground**: Queries from aerial cameras, gallery from ground cameras
 2. **Ground-to-Aerial**: Queries from ground cameras, gallery from aerial cameras
 
-### Current Benchmark Results
+### Benchmark Results
 
 | **Method** | **Aerial-Ground** | **Ground-Aerial** | **Overall** |
 |------------|-------------------|-------------------|-------------|
