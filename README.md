@@ -28,9 +28,10 @@ The competition evaluates performance on two distinct scenarios:
 | **Method** | **Aerial-Ground** | **Ground-Aerial** | **Overall** |
 |------------|-------------------|-------------------|-------------|
 |            | R1/R5/R10/mAP     | R1/R5/R10/mAP     | R1/R5/R10/mAP |
-| Baseline 1 | -/-/-/-           | -/-/-/-           | -/-/-/-       |
-| Baseline 2 | -/-/-/-           | -/-/-/-           | -/-/-/-       |
-| Baseline 3 | -/-/-/-           | -/-/-/-           | -/-/-/-       |
+| 1st Team   | **-/-/-/-**       | **-/-/-/-**       | **-/-/-/-**   |
+| 2nd Team   | **-/-/-/-**       | **-/-/-/-**       | **-/-/-/-**   |
+| 3rd Team   | **-/-/-/-**       | **-/-/-/-**       | **-/-/-/-**   |
+| baseline_tfclip | 0.6308/0.7516/0.7989/0.6552 | 0.6449/0.7986/0.8397/0.6707 | 0.6375/0.7740/0.8183/0.6626 |
 
 ## Setup Instructions
 1. Clone this repository (link to be updated).
