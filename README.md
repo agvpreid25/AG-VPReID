@@ -4,8 +4,11 @@
 
 ![Sample images from the dataset](imgs/samples.png)
 
+I'll help you fix the issue with your dataset access documentation. Here's an improved version:
+
 ## Dataset Access
 The dataset is available for [download on Kaggle](https://www.kaggle.com/competitions/agvpreid25/data).
+If you experience download issues, please check the [GitHub issue comment](https://github.com/agvpreid25/AG-VPReID/issues/1#issuecomment-2704873503) for troubleshooting steps.
 
 ## Data Structure
 The dataset follows a hierarchical organization: `{ID}/{Tracklets}/{Frames}`
