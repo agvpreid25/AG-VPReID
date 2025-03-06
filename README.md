@@ -34,7 +34,7 @@ The competition evaluates performance on two distinct scenarios:
 | baseline_tfclip | 0.6308/0.7516/0.7989/0.6552 | 0.6449/0.7986/0.8397/0.6707 | 0.6375/0.7740/0.8183/0.6626 |
 
 ## Setup Instructions
-1. Clone this repository (link to be updated).
+1. Clone this repository.
 2. [Download](https://www.kaggle.com/competitions/agvpreid25/data) the AG-VPReID dataset.
 3. Organize the dataset as follows:
 
@@ -50,6 +50,7 @@ datasets/
         query/
       attributes/
 ```
+4. For quick start, follow instruction in [baseline](./baselines/tfclip)
 
 ## Submission Guidelines
 1. Generate prediction files for both test cases.
