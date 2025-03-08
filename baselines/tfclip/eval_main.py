@@ -33,7 +33,7 @@ def main():
 
     print(f"Eval case: {eval_case}, Sort order: {sort_order}, Altitude: {altitude}")
     eval_cmd = (
-        f"python vis_all.py "
+        f"python eval_all.py "
         f"--sort {sort_order} "
         f"--num_vis {num_vis} "
         f"--rank_vis {rank_vis} "
