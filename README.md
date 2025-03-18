@@ -59,3 +59,16 @@ datasets/
 
 ## FAQs
 This section will be updated regularly as new information becomes available.
+
+## 📖 Citation
+
+If you find our work useful, please consider citing our paper:
+
+```bibtex
+@inproceedings{nguyen2025agvpreid,
+  author    = {Huy Nguyen and Kien Nguyen and Akila Pemasiri and Feng Liu and Sridha Sridharan and Clinton Fookes},
+  title     = {{AG-VPReID}: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025},
+  publisher = {IEEE}
+}
