@@ -5,7 +5,7 @@
 ![Sample images from the dataset](imgs/samples.png)
 
 ## Dataset Access
-The dataset is available for [download on Kaggle](https://www.kaggle.com/competitions/agvpreid25/data).
+The dataset is available for [download on Kaggle](https://www.kaggle.com/competitions/agvpreid25/data). The full version (with original person IDs) is available [here](https://drive.google.com/drive/folders/1wtdhKzK9Fbj7xkGAM84KNJ1uYCxSMHdj?usp=sharing).
 If you experience download issues, please check the [GitHub issue comment](https://github.com/agvpreid25/AG-VPReID/issues/1#issuecomment-2704873503) for troubleshooting steps.
 
 ## Data Structure
